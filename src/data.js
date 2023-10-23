@@ -1,0 +1,1 @@
+export default ()=><p>main always mass</p>
